@@ -1,6 +1,8 @@
 ## Reto 4: Notebook de Jupyter
 Buenas! bienvenido a mi repo, el notebook se encuentra entre los archivos subidos
-El reto 6 parece no mostrarse completo asi que lo comparto aqui (fue el mas complicado)
+
+
+El reto 6 parece no mostrarse completo asi que lo comparto aqui para que lo puedan probar 🙂 (fue el mas complicado)
 ```python
 print("Quieres asignar los valores al centro y radio?")
 res=input("y/n: ")
